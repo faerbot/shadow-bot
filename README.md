@@ -1,6 +1,6 @@
 sh 🛡adow
 
-🛡 channel [℡ TΞΛM BФSS🛡](https://telegram.me/hmode_rap_tv)
+🛡 channel [🛡](https://telegram.me/hmode_rap_tv)
 
 🌐DEV : @hmode_rap
 
