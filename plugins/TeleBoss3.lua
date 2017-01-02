@@ -50,9 +50,9 @@ open text - فتح الدردشه
 open group - فتح المجموعه 
 open all - فتح جميع الاعدادات 
 ➖🔻➖🔻➖🔻➖🔻➖
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+💯-Đєⱴ💀:  @hmode_rap
+💯-Đєⱴ ฿๏ͳ💀: 
+💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: 
 ]]
 reply_msg(reply_id, S, ok_cb, false) 
 end
