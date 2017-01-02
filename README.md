@@ -1,12 +1,12 @@
-shadow 🛡
+sh 🛡adow
 
-🛡 
+🛡 channel [℡ TΞΛM BФSS🛡](https://telegram.me/hmode_rap_tv)
 
 🌐DEV : @hmode_rap
 
 🔺➖🔺➖🔺➖🔺➖
 
-كيفيه تنصيب  shadow_bot 
+كيفيه تنصيب  shadow 
 
 #نسخه_انكلش_لمحبي_وعشاق_الانكلش 
 🔺➖🔺➖🔺➖🔺➖
@@ -42,7 +42,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 🔺➖🔺➖🔺➖🔺➖
 
-git clone https://github.com/faerbot/shadow-bot
+git clone https://github.com/faerbot/shadow-bot.git
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -84,13 +84,15 @@ chmod +x launch.sh
 
 عندك استفسار او اي شي راسلني
 
-@hmode_rap
+@hmode_rap 
 
 واذا محظور تعال على بوت التواصل
 
+@shadow-botbot
+
 قـنـاة الـسـورس
 
-
+@shadow-bot
 
 🛡 Realm configuration
 
@@ -102,3 +104,9 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
   }
 Then restart the bot.
 * * *
+
+🛡Support and development [℡ TΞΛM BФSS🛡](https://telegram.me/shadow-bot)✨
+
+For managing on Telegram.
+ADD [shadow-bot](https://telegram.me/shadow-bot) 🛡
+Subscribe to Source channel [℡ TΞΛM BФSS🛡](https://telegram.me/shadow-bot)
