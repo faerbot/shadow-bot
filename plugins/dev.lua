@@ -2,7 +2,7 @@
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                       ▀▄ ▄▀ 
 ▀▄ ▄▀       BY MOHAMMED HISHAM              ▀▄ ▄▀ 
-▀▄ ▄▀ BY MOHAMMEDHISHAM (@TH3BOSS)          ▀▄ ▄▀          
+▀▄ ▄▀ BY MOHAMMEDHISHAM (@hmode_rap)          ▀▄ ▄▀          
 ▀▄ ▄▀ JUST WRITED BY MOHAMMED HISHAM        ▀▄ ▄▀   
 ▀▄ ▄▀          dev   : dev                  ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
@@ -17,19 +17,20 @@ return [[
 يعمل البوت على مجموعات سوبر تصل الى 5 k عضو 🔺
 
      ≪تم صنع البوت بواسطة المطور≫
-                      『  @TH3BOSS 』
+                      『  @hmode_rap 』
                       
-                      🔻 DEV : @TH3BOSS 🔺
+                      🔻 DEV : @deve_poent 🔺
                       
                       🔺 تابعونا ماهو كل جديد على قناه السورس 🔻
                       
-                      [ @llDEV1ll ]
+                      [ @hmode_rap ]
                       
-                   🔺 للاستفسار :-  @TH3BOSS       🔻
+                   🔺 للاستفسار :- @pic_fuke
+          🔻
                      
-                     🔻 DEV:- @TH3BOSS 🔺
+                     🔻 DEV:-  🔺@deve_poent
                      
-                     🔻  SUPPORTBOT :- @ll60Kllbot🔺
+                     🔻  SUPPORTBOT :- @hmode_1bot🔺
 ]]
 end
 
