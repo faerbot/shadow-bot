@@ -41,10 +41,9 @@ local S = [[  💯 اوامر المطورين 💯
 📫redis: ↝↜
 {لعمل رديس لسيرفر البوت}
 
-➖🔺➖🔺➖🔺➖🔺➖
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+➖🔺➖🔺➖🔺➖
+💯-Đєⱴ ฿๏ͳ💀:  @hmode_rap
+💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: 
 ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
