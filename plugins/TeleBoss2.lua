@@ -46,9 +46,9 @@ version - لعرض موقع ومعلومات السيرفر
 dev - لعرض مطور البوت
 me - عرض موقعك
 ➖🔻➖🔻➖🔻➖🔻➖
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+💯-Đєⱴ💀:  @hmode_rap
+💯-Đєⱴ ฿๏ͳ💀: 
+💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: 
 ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
