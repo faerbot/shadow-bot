@@ -1,12 +1,12 @@
-TΞΛM BФSS 🛡
+shadow 🛡
 
-🛡 channel [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)
+🛡 
 
-🌐DEV : @TH3BOSS
+🌐DEV : @hmode_rap
 
 🔺➖🔺➖🔺➖🔺➖
 
-كيفيه تنصيب  TeleBoss  
+كيفيه تنصيب  shadow_bot 
 
 #نسخه_انكلش_لمحبي_وعشاق_الانكلش 
 🔺➖🔺➖🔺➖🔺➖
@@ -42,7 +42,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 🔺➖🔺➖🔺➖🔺➖
 
-git clone https://github.com/moody2020/TeleBoss.git
+git clone https://github.com/faerbot/shadow-bot
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -50,7 +50,7 @@ git clone https://github.com/moody2020/TeleBoss.git
 
 🔺➖🔺➖🔺➖🔺➖
 
-cd TeleBoss
+cd shadow-bot
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -84,15 +84,13 @@ chmod +x launch.sh
 
 عندك استفسار او اي شي راسلني
 
-@TH3BOSS 
+@hmode_rap
 
 واذا محظور تعال على بوت التواصل
 
-@ll60Kllbot
-
 قـنـاة الـسـورس
 
-@llDEV1ll
+
 
 🛡 Realm configuration
 
@@ -104,9 +102,3 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
   }
 Then restart the bot.
 * * *
-
-🛡Support and development [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)✨
-
-For managing on Telegram.
-ADD [@TH3BOSS](https://telegram.me/TH3BOSS) 🛡
-Subscribe to Source channel [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)
