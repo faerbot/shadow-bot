@@ -39,9 +39,9 @@ local S = [[
 🔺🔺🔻🔺🔺🔺🔺🔺🔺🔺
 جميع الحقوق محفوظة للزعيم ™
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+💯-Đєⱴ💀: @hmode_rap
+💯-Đєⱴ ฿๏ͳ💀: @deve_poent
+💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @pic_fuke1
 ]] 
 reply_msg(reply_id, S, ok_cb, false) 
 end 
